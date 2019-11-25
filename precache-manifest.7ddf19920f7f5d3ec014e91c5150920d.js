@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d94a6e77c74883b59e058e3393feecd",
+    "revision": "0f14063fe27208c1b52c6a3c4fb1605e",
     "url": "/arc-accessibility-dashboard/index.html"
   },
   {
