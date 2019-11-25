@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/arc-accesibility-dashboard/static/css/main.b998d8fd.chunk.css",
-    "main.js": "/arc-accesibility-dashboard/static/js/main.8676e0fb.chunk.js",
-    "main.js.map": "/arc-accesibility-dashboard/static/js/main.8676e0fb.chunk.js.map",
-    "runtime-main.js": "/arc-accesibility-dashboard/static/js/runtime-main.43af7e18.js",
-    "runtime-main.js.map": "/arc-accesibility-dashboard/static/js/runtime-main.43af7e18.js.map",
-    "static/js/2.15033c3e.chunk.js": "/arc-accesibility-dashboard/static/js/2.15033c3e.chunk.js",
-    "static/js/2.15033c3e.chunk.js.map": "/arc-accesibility-dashboard/static/js/2.15033c3e.chunk.js.map",
-    "index.html": "/arc-accesibility-dashboard/index.html",
-    "precache-manifest.37755d037085384920902d37594a86c7.js": "/arc-accesibility-dashboard/precache-manifest.37755d037085384920902d37594a86c7.js",
-    "service-worker.js": "/arc-accesibility-dashboard/service-worker.js",
-    "static/css/main.b998d8fd.chunk.css.map": "/arc-accesibility-dashboard/static/css/main.b998d8fd.chunk.css.map"
+    "main.css": "/arc-accessibility-dashboard/static/css/main.b998d8fd.chunk.css",
+    "main.js": "/arc-accessibility-dashboard/static/js/main.a35ea476.chunk.js",
+    "main.js.map": "/arc-accessibility-dashboard/static/js/main.a35ea476.chunk.js.map",
+    "runtime-main.js": "/arc-accessibility-dashboard/static/js/runtime-main.dd256cea.js",
+    "runtime-main.js.map": "/arc-accessibility-dashboard/static/js/runtime-main.dd256cea.js.map",
+    "static/js/2.15033c3e.chunk.js": "/arc-accessibility-dashboard/static/js/2.15033c3e.chunk.js",
+    "static/js/2.15033c3e.chunk.js.map": "/arc-accessibility-dashboard/static/js/2.15033c3e.chunk.js.map",
+    "index.html": "/arc-accessibility-dashboard/index.html",
+    "precache-manifest.c016808dbc1372dead32cff7076dc896.js": "/arc-accessibility-dashboard/precache-manifest.c016808dbc1372dead32cff7076dc896.js",
+    "service-worker.js": "/arc-accessibility-dashboard/service-worker.js",
+    "static/css/main.b998d8fd.chunk.css.map": "/arc-accessibility-dashboard/static/css/main.b998d8fd.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.43af7e18.js",
+    "static/js/runtime-main.dd256cea.js",
     "static/js/2.15033c3e.chunk.js",
     "static/css/main.b998d8fd.chunk.css",
-    "static/js/main.8676e0fb.chunk.js"
+    "static/js/main.a35ea476.chunk.js"
   ]
 }
