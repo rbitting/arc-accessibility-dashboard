@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/arc-accessibility-dashboard/static/css/main.b998d8fd.chunk.css",
-    "main.js": "/arc-accessibility-dashboard/static/js/main.a35ea476.chunk.js",
-    "main.js.map": "/arc-accessibility-dashboard/static/js/main.a35ea476.chunk.js.map",
-    "runtime-main.js": "/arc-accessibility-dashboard/static/js/runtime-main.dd256cea.js",
-    "runtime-main.js.map": "/arc-accessibility-dashboard/static/js/runtime-main.dd256cea.js.map",
-    "static/js/2.15033c3e.chunk.js": "/arc-accessibility-dashboard/static/js/2.15033c3e.chunk.js",
-    "static/js/2.15033c3e.chunk.js.map": "/arc-accessibility-dashboard/static/js/2.15033c3e.chunk.js.map",
+    "main.css": "/arc-accessibility-dashboard/static/css/main.e9471b9e.chunk.css",
+    "main.js": "/arc-accessibility-dashboard/static/js/main.a8a6be9b.chunk.js",
+    "main.js.map": "/arc-accessibility-dashboard/static/js/main.a8a6be9b.chunk.js.map",
+    "runtime-main.js": "/arc-accessibility-dashboard/static/js/runtime-main.2f201635.js",
+    "runtime-main.js.map": "/arc-accessibility-dashboard/static/js/runtime-main.2f201635.js.map",
+    "static/js/2.ae039c23.chunk.js": "/arc-accessibility-dashboard/static/js/2.ae039c23.chunk.js",
+    "static/js/2.ae039c23.chunk.js.map": "/arc-accessibility-dashboard/static/js/2.ae039c23.chunk.js.map",
     "index.html": "/arc-accessibility-dashboard/index.html",
-    "precache-manifest.7ddf19920f7f5d3ec014e91c5150920d.js": "/arc-accessibility-dashboard/precache-manifest.7ddf19920f7f5d3ec014e91c5150920d.js",
+    "precache-manifest.9fc9ce8ed853269e7fd55f756bf22f8a.js": "/arc-accessibility-dashboard/precache-manifest.9fc9ce8ed853269e7fd55f756bf22f8a.js",
     "service-worker.js": "/arc-accessibility-dashboard/service-worker.js",
-    "static/css/main.b998d8fd.chunk.css.map": "/arc-accessibility-dashboard/static/css/main.b998d8fd.chunk.css.map"
+    "static/css/main.e9471b9e.chunk.css.map": "/arc-accessibility-dashboard/static/css/main.e9471b9e.chunk.css.map",
+    "static/js/2.ae039c23.chunk.js.LICENSE.txt": "/arc-accessibility-dashboard/static/js/2.ae039c23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd256cea.js",
-    "static/js/2.15033c3e.chunk.js",
-    "static/css/main.b998d8fd.chunk.css",
-    "static/js/main.a35ea476.chunk.js"
+    "static/js/runtime-main.2f201635.js",
+    "static/js/2.ae039c23.chunk.js",
+    "static/css/main.e9471b9e.chunk.css",
+    "static/js/main.a8a6be9b.chunk.js"
   ]
 }
